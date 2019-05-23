@@ -1,0 +1,56 @@
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\bin\Debug\exam_task.exe.config
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\bin\Debug\exam_task.exe
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\bin\Debug\exam_task.pdb
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.Form1.resources
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.Properties.Resources.resources
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.exe
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.pdb
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.New_task.resources
+C:\Users\abc\Desktop\Projects\exam_task\exam_task\obj\Debug\exam_task.Show_form.resources
+C:\Users\PKO\Desktop\exam_task\exam_task\bin\Debug\exam_task.exe.config
+C:\Users\PKO\Desktop\exam_task\exam_task\bin\Debug\exam_task.exe
+C:\Users\PKO\Desktop\exam_task\exam_task\bin\Debug\exam_task.pdb
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.csprojAssemblyReference.cache
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.Form1.resources
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.New_task.resources
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.Properties.Resources.resources
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.Show_form.resources
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.csproj.GenerateResource.cache
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.exe
+C:\Users\PKO\Desktop\exam_task\exam_task\obj\Debug\exam_task.pdb
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\exam_task.exe.config
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\exam_task.exe
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\exam_task.pdb
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.Form1.resources
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.New_task.resources
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.Properties.Resources.resources
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.Show_form.resources
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.csproj.GenerateResource.cache
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.exe
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.pdb
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\itextsharp.dll
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\itextsharp.pdfa.dll
+C:\Users\abc\Desktop\exam_task\exam_task\bin\Debug\itextsharp.xml
+C:\Users\abc\Desktop\exam_task\exam_task\obj\Debug\exam_task.csproj.CopyComplete
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\exam_task.exe.config
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\exam_task.exe
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\exam_task.pdb
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\itextsharp.dll
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\itextsharp.pdfa.dll
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\bin\Debug\itextsharp.xml
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.Form1.resources
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.New_task.resources
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.Properties.Resources.resources
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.Show_form.resources
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.csproj.GenerateResource.cache
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.csproj.CopyComplete
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.exe
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.pdb
+C:\Users\PKO\Desktop\Новая папка\exam_task\exam_task\obj\Debug\exam_task.Ask_form.resources
